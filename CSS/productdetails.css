@@ -1,0 +1,26 @@
+
+.p_border{
+   
+    border-style: ridge;
+    border-width: 5px;
+    height: 85%;
+    padding: 60px 0 60px 0;;
+    transition: ease-in all 0.5s;
+   margin: 5px;
+}
+
+.p_box {
+     text-align: center;
+     margin-bottom: 30px;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+     background-color: #fff;
+     padding: 50px;
+   
+}
+
+.p_nm{
+   
+    font-family:lato;
+    color: #003f6b;
+    
+}

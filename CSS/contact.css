@@ -1,0 +1,110 @@
+ .contact {
+    padding: 70px 0;
+}
+
+.contact .heading h2 {
+    font-size: 33px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    font-family:lato;
+
+}
+
+.contact .heading h2 span {
+    color: #003f6b;
+    font-family: lato;
+
+}
+
+.contact .heading p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #000000;
+    margin: 20px 0 60px;
+    padding: 0;
+}
+
+.contact .form-control {
+    padding: 25px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    background: #91a7bb;
+    border: 0;
+    border-radius: 15px;
+}
+
+.box-user input::placeholder {
+	/* Chrome, Firefox, Opera, Safari 10.1+ */
+	color: black;
+	opacity: 1; /* Firefox */
+	padding-left: 0.1em;
+    font-size: 20px;
+}
+.box-user textarea::placeholder{
+    color: black;
+	opacity: 1; /* Firefox */
+	padding-left: 0.1em;
+    font-size: 20px;
+}
+.box-user input:-ms-input-placeholder {
+	/* Internet Explorer 10-11 */
+	color: RGB(162, 180, 192);
+	padding-left: 0.1em;
+}
+.box-user input::-ms-input-placeholder {
+	/* Microsoft Edge */
+	color: RGB(162, 180, 192);
+	padding-left: 0.1em;
+}
+
+.contact .btn {
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 18px;
+    background: #003f6b;
+    color: #fff;
+    font-family: lato;
+}
+
+.contact .title h3 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #16324a;
+    font-family: lato;
+}
+
+.contact .title p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.6;
+    margin: 0 0 40px;
+}
+
+.contact .content .info {
+    margin-top: 30px;
+}
+.contact .content .info i {
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+    color: #02434b;
+    margin-right: 20px;
+    text-align: center;
+    width: 20px;
+}
+.contact .content .info h4 {
+    font-size: 18px;
+    line-height: 1.4;
+    color: #003366;
+    font-family: lato;
+}
+
+.contact .content .info h4 span {
+   font-family: lato;
+    font-size: 15px;
+    font-weight: 300;
+    color: #000000;
+}

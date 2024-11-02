@@ -1,0 +1,51 @@
+.cbox{
+    background-color: #EAECEE;
+    width: 100%;
+    height: 100%;
+}
+
+.h2{
+    color: #1C2833; 
+    font-family: lato;
+    font-weight: bold;
+    
+}
+
+.p{
+   font-family: lato;
+   color: #566573;
+   margin: 10px;
+}
+
+.lbl{
+    font-family: lato;
+    font-size: 26px;
+    color: #2E4053; 
+    text-align: left;
+    margin-left: 40px;
+    font-weight: bold;
+    
+}
+
+.hr{
+    border:  1px solid;
+    
+}
+
+.qty{
+    font-size: large;
+    font-weight: 10px;
+    align-items: left;
+    background-color: white;
+}
+
+.btn {
+	    position: relative;
+        padding-right: 5px;
+        padding-left: 5px;
+        border-color: RGB(181, 200, 214);
+        color: black;
+        background: RGBA(139, 155, 167);
+        cursor: pointer;
+        box-shadow: 2px 2px 2px 2px #808080;
+}

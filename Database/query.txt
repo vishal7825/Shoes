@@ -1,0 +1,12 @@
+FOREIGN KEY:
+
+
+
+ALTER TABLE product
+ADD FOREIGN kEY (cid) REFERENCES category (cid);
+
+
+
+
+ALTER TABLE product
+ADD FOREIGN kEY (sc_id) REFERENCES subcategory (sc_id);

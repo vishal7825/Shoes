@@ -1,0 +1,17 @@
+
+.box{
+
+border-radius : 8px;
+border-style: ridge;
+color: #003f6b;
+width: 50%;
+align-items: center;
+padding-top: 5px;
+background: RGBA(139, 155, 167);
+
+}
+.h2
+{ 
+    text-align: center;
+    padding-bottom: 50px;
+}
